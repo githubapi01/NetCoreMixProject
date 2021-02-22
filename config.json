@@ -1,0 +1,16 @@
+{
+  "HQConnectionStrings": {
+    "Url": "Data Source=10.66.103.61;Initial Catalog=QQT;persist security info=True;user id=QQT_Admin;password=Welcome6;MultipleActiveResultSets=True;"
+  },
+  "QQTConnectionStrings": {
+    "Url": "server=10.169.10.61;user id=htadminqqt;password=Welcome6.;database=qqt"
+  },
+  "URL": {
+    "Host": "servicetest.htsc.com.cn",
+    "Port": 81,
+    "Username": "htzq\\service-test2",
+    "Password": "Welcome6",
+    "DisplayName": "wanming666",
+    "Subject": "test login"
+  }
+}
